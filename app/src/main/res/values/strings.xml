@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_location">Location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_location_title">Location</string>
+    <string name="pref_location_key">location</string>
+    <string name="pref_location_defaultvalue">92831</string>
+
+    <string name="pref_unit_title">Units</string>
+    <string name="pref_unit_key">units</string>
+    <string name="pref_unit_dialgoue_title">Select Units</string>
+    <string name="pref_unit_metric">metric</string>
+    <string name="pref_unit_imperial">imperial</string>
+    <string-array name="pref_unit_dialgoue_menu">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="pref_unit_dialgoue_menu_values">
+        <item>metric</item>
+        <item>imperial</item>
+
+    </string-array>
+    <string name="pref_unit_dialgoue_default_value">metric</string>
+</resources>
